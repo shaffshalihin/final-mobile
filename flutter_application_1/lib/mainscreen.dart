@@ -52,7 +52,7 @@ class MainScreen extends StatelessWidget {
             ),
             SizedBox(height: 20),
             Text(
-              'Ikan favorit',
+              'makanan favorit',
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 10),
